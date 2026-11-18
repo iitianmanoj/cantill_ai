@@ -1,5 +1,5 @@
 import React,{useState,useEffect} from 'react';import{createRoot}from'react-dom/client';import axios from 'axios';import './style.css';
-const api=axios.create({baseURL:import.meta.env.VITE_API_URL||'http://localhost:8000'});
+const api=axios.create({baseURL:import.meta.env.VITE_API_URL||'https://cantill-ai-e085.onrender.com/'});
 function App(){const[tab,setTab]=useState('Dashboard'),[rows,setRows]=useState([]),[batch,setBatch]=useState(''),[policy,setPolicy]=useState(null),[policies,setPolicies]=useState([]),[json,setJson]=useState(''),[msg,setMsg]=useState(''),[draft,setDraft]=useState({}),[chat,setChat]=useState([]),[notice,setNotice]=useState(''),[preview,setPreview]=useState(null),[date,setDate]=useState('2026-11-19');
 const refresh=async()=>{try{const[r,p,ps]=await Promise.all([api.get('/api/decisions'),api.get('/api/policy'),api.get('/api/policies')]);setRows(r.data);setPolicy(p.data);setPolicies(ps.data);setJson(JSON.stringify(p.data,null,2))}catch(e){setNotice('Backend not reachable: '+e.message)}};
 useEffect(()=>{refresh()},[]);const err=e=>setNotice(e.response?.data?.detail||e.message);const upload=async e=>{let f=e.target.files[0];if(!f)return;let fd=new FormData();fd.append('file',f);try{let r=(await api.post('/api/process-batch',fd)).data;setBatch(r.batch_id);setNotice(`${r.count} PR lines processed`);refresh()}catch(e){err(e)}};
