@@ -1,0 +1,36 @@
+
+# Python Backend
+backend/.venv/
+backend/venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Environment Variables
+.env
+.env.*
+!.env.example
+
+# Private Task Data
+backend/private_data/
+backend/app.db
+backend/*.db
+backend/*.sqlite
+backend/*.sqlite3
+backend/policy_backup.json
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
