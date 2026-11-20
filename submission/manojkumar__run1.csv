@@ -1,0 +1,191 @@
+pr_no,pr_line,resolved_item_code,group_id,po_id,decision,route,supplier_id,unit_price,group_value_inr,suggested_supplier_ids,policy_version,reason
+PR-26-00501,1,ITM-1009,REQ-00003,PO-00001,PO,CONTRACT_PO,S007,7.06,173958.4,,5.0,Clause 5.2; valuation 7.06; source RC-2026-013
+PR-26-00502,1,ITM-1021,REQ-00142,PO-00085,PO,SPOT_PO,S013,201.52,74814.0,,5.0,Clause 5.4; valuation 202.20; source preferred supplier history / contract
+PR-26-00503,1,ITM-1052,REQ-00137,PO-00080,PO,SPOT_PO,S032,32069.3,96207.9,,5.0,Clause 5.4; valuation 32069.30; source preferred supplier history / contract
+PR-26-00504,1,ITM-1024,REQ-00106,PO-00063,PO,CONTRACT_PO,S013,311.24,12449.6,,5.0,Clause 5.2; valuation 311.24; source RC-2026-002
+PR-26-00505,1,ITM-1007,REQ-00098,,SOURCING_REQUEST,RFQ,,,301267.1,S001;S003;S002,5.0,Clause 5.5; valuation 79.49; source 7300040
+PR-26-00506,1,ITM-1049,REQ-00047,PO-00029,PO,CONTRACT_PO,S029,191.31,145395.6,,5.0,Clause 5.2; valuation 191.31; source RC-2026-007
+PR-26-00507,1,ITM-1001,REQ-00156,PO-00090,PO,CONTRACT_PO,S001,6340.39,31701.95,,5.0,Clause 5.2; valuation 6340.39; source RC-2025-011
+PR-26-00508,1,ITM-1047,REQ-00099,PO-00056,PO,CONTRACT_PO,S029,26.09,300035.0,,5.0,Clause 5.2; valuation 26.09; source RC-2026-007
+PR-26-00509,1,ITM-1019,REQ-00056,PO-00033,PO,CONTRACT_PO,S009,39.28,14533.6,,5.0,Clause 5.2; valuation 39.28; source RC-2025-014
+PR-26-00510,1,ITM-1002,REQ-00024,PO-00014,PO,CONTRACT_PO,S001,9168.71,110024.52,,5.0,Clause 5.2; valuation 9168.71; source RC-2025-011
+PR-26-00511,1,ITM-1048,REQ-00140,PO-00083,PO,CONTRACT_PO,S029,90.32,74965.6,,5.0,Clause 5.2; valuation 90.32; source RC-2026-007
+PR-26-00512,1,ITM-1015,REQ-00021,PO-00011,PO,CONTRACT_PO,S009,158.51,163265.3,,5.0,Clause 5.2; valuation 158.51; source RC-2025-014
+PR-26-00513,1,ITM-1010,REQ-00004,PO-00001,PO,CONTRACT_PO,S007,1.81,276911.9,,5.0,Clause 5.2; valuation 1.81; source RC-2026-013
+PR-26-00514,1,ITM-1023,REQ-00034,PO-00019,PO,SPOT_PO,S014,1500.01,176963.8,,5.0,Clause 5.4; valuation 1361.26; source preferred supplier history / contract
+PR-26-00515,1,ITM-1022,REQ-00138,PO-00081,PO,CONTRACT_PO,S013,579.62,23184.8,,5.0,Clause 5.2; valuation 579.62; source RC-2026-002
+PR-26-00516,1,ITM-1053,REQ-00058,,SOURCING_REQUEST,RFQ,,,212259.5,S032;S033,5.0,Clause 5.5; valuation 4245.19; source 7300358
+PR-26-00517,1,ITM-1061,REQ-00039,PO-00023,PO,CONTRACT_PO,S038,178463.6,356927.2,,5.0,Clause 5.2; valuation 178463.60; source RC-2026-012
+PR-26-00518,1,ITM-1006,REQ-00046,,SOURCING_REQUEST,RFQ,,,284700.0,S003;S001;S002,5.0,Clause 5.5; valuation 365.00; source item master / requester estimate
+PR-26-00519,1,ITM-1041,REQ-00083,PO-00048,PO,CONTRACT_PO,S025,71.5,253825.0,,5.0,Clause 5.2; valuation 71.50; source RC-2026-009
+PR-26-00520,1,ITM-1016,REQ-00028,PO-00011,PO,CONTRACT_PO,S009,115.26,149838.0,,5.0,Clause 5.2; valuation 115.26; source RC-2025-014
+PR-26-00521,1,ITM-1046,REQ-00092,PO-00056,PO,CONTRACT_PO,S029,1091.63,251074.9,,5.0,Clause 5.2; valuation 1091.63; source RC-2026-007
+PR-26-00522,1,ITM-1013,REQ-00072,PO-00040,PO,SPOT_PO,S007,37.74,69103.8,,5.0,Clause 5.4; valuation 36.18; source preferred supplier history / contract
+PR-26-00523,1,ITM-1003,REQ-00015,PO-00008,PO,CONTRACT_PO,S001,83.69,266971.1,,5.0,Clause 5.2; valuation 83.69; source RC-2025-011
+PR-26-00524,1,ITM-1014,REQ-00063,,SOURCING_REQUEST,RFQ,,,231580.8,S006;S007,5.0,Clause 5.5; valuation 20.64; source 7300072
+PR-26-00525,1,NEW,REQ-00006,,SOURCING_REQUEST,NEW_ITEM_SOURCING,,,78080.2,,5.0,Clause 1.2; valuation 709.82; source item master / requester estimate
+PR-26-00526,1,ITM-1023,REQ-00155,PO-00089,PO,SPOT_PO,S014,1500.01,68063.0,,5.0,Clause 5.4; valuation 1361.26; source preferred supplier history / contract
+PR-26-00527,1,ITM-1023,REQ-00040,PO-00024,PO,SPOT_PO,S014,1500.01,95288.2,,5.0,Clause 5.4; valuation 1361.26; source preferred supplier history / contract
+PR-26-00528,1,ITM-1022,REQ-00105,PO-00062,PO,SPOT_PO,S014,640.23,69554.4,,5.0,Clause 5.4; valuation 579.62; source preferred supplier history / contract
+PR-26-00529,1,ITM-1022,REQ-00119,PO-00069,PO,SPOT_PO,S014,640.23,127516.4,,5.0,Clause 5.4; valuation 579.62; source preferred supplier history / contract
+PR-26-00530,1,NEW,REQ-00126,,SOURCING_REQUEST,NEW_ITEM_SOURCING,,,0.0,,5.0,Clause 1.2; valuation 0.00; source item master / requester estimate
+PR-26-00531,1,ITM-1009,REQ-00082,PO-00047,PO,SPOT_PO,S006,7.39,17931.0,,5.0,Clause 5.4; valuation 6.45; source preferred supplier history / contract
+PR-26-00532,1,ITM-1009,REQ-00003,PO-00001,PO,CONTRACT_PO,S007,7.06,173958.4,,5.0,Clause 5.2; valuation 7.06; source RC-2026-013
+PR-26-00533,1,ITM-1009,REQ-00013,PO-00006,PO,CONTRACT_PO,S007,7.06,22097.8,,5.0,Clause 5.2; valuation 7.06; source RC-2026-013
+PR-26-00534,1,ITM-1009,REQ-00003,PO-00001,PO,CONTRACT_PO,S007,7.06,173958.4,,5.0,Clause 5.2; valuation 7.06; source RC-2026-013
+PR-26-00535,1,ITM-1009,REQ-00122,PO-00070,PO,SPOT_PO,S006,7.39,16834.5,,5.0,Clause 5.4; valuation 6.45; source preferred supplier history / contract
+PR-26-00536,1,ITM-1057,REQ-00009,,SOURCING_REQUEST,RFQ,,,370449.3,S036;S037;S035,5.0,Clause 5.5; valuation 12348.31; source 7300379
+PR-26-00537,1,ITM-1036,REQ-00055,PO-00032,PO,SPOT_PO,S023,4360.8,87216.0,,5.0,Clause 5.4; valuation 4360.80; source preferred supplier history / contract
+PR-26-00538,1,ITM-1039,REQ-00012,PO-00005,PO,SPOT_PO,S024,2893.72,173623.2,,5.0,Clause 5.4; valuation 2893.72; source preferred supplier history / contract
+PR-26-00539,1,ITM-1056,REQ-00112,,SOURCING_REQUEST,RFQ,,,213467.13,S036;S035;S037,5.0,Clause 5.5; valuation 71155.71; source 7300375
+PR-26-00540,1,ITM-1037,REQ-00051,,SOURCING_REQUEST,RFQ,,,235502.4,S021;S024;S023,5.0,Clause 5.5; valuation 2943.78; source 7300242
+PR-26-00541,1,ITM-1056,REQ-00064,PO-00037,PO,SPOT_PO,S036,71155.71,142311.42,,5.0,Clause 5.4; valuation 71155.71; source preferred supplier history / contract
+PR-26-00542,1,ITM-1057,REQ-00114,PO-00068,PO,SPOT_PO,S036,12348.31,98786.48,,5.0,Clause 5.4; valuation 12348.31; source preferred supplier history / contract
+PR-26-00543,1,ITM-1036,REQ-00091,PO-00055,PO,SPOT_PO,S023,4360.8,74133.6,,5.0,Clause 5.4; valuation 4360.80; source preferred supplier history / contract
+PR-26-00544,1,ITM-1037,REQ-00016,,SOURCING_REQUEST,RFQ,,,264940.2,S021;S024;S023,5.0,Clause 5.5; valuation 2943.78; source 7300242
+PR-26-00545,1,ITM-1039,REQ-00131,PO-00076,PO,SPOT_PO,S024,2893.72,144686.0,,5.0,Clause 5.4; valuation 2893.72; source preferred supplier history / contract
+PR-26-00546,1,ITM-1073,REQ-00074,,SOURCING_REQUEST,CAPEX_SOURCING,,,2300000.0,S045;S047;S020;S048;S046,5.0,Clause 5.1; valuation 1150000.00; source item master / requester estimate
+PR-26-00547,1,ITM-1072,REQ-00146,,SOURCING_REQUEST,CAPEX_SOURCING,,,2738200.86,S045;S047;S020;S048;S046,5.0,Clause 5.1; valuation 2738200.86; source 7300467
+PR-26-00548,1,ITM-1071,REQ-00033,,SOURCING_REQUEST,CAPEX_SOURCING,,,4527528.06,S045;S047;S020;S048;S046,5.0,Clause 5.1; valuation 1509176.02; source 7300466
+PR-26-00549,1,ITM-1073,REQ-00044,,SOURCING_REQUEST,CAPEX_SOURCING,,,4600000.0,S045;S047;S020;S048;S046,5.0,Clause 5.1; valuation 1150000.00; source item master / requester estimate
+PR-26-00550,1,ITM-1060,REQ-00121,,SOURCING_REQUEST,RFQ,,,145000.0,S036;S035;S037,5.0,Clause 5.5; valuation 1450.00; source item master / requester estimate
+PR-26-00551,1,ITM-1032,REQ-00109,,SOURCING_REQUEST,RFQ,,,47000.0,S019;S020;S017,5.0,Clause 5.5; valuation 2350.00; source item master / requester estimate
+PR-26-00552,1,ITM-1055,REQ-00002,,SOURCING_REQUEST,RFQ,,,13800.0,S033;S032,5.0,Clause 5.5; valuation 230.00; source item master / requester estimate
+PR-26-00553,1,ITM-1032,REQ-00115,,SOURCING_REQUEST,RFQ,,,258500.0,S019;S020;S017,5.0,Clause 5.5; valuation 2350.00; source item master / requester estimate
+PR-26-00554,1,ITM-1060,REQ-00144,,SOURCING_REQUEST,RFQ,,,174000.0,S036;S035;S037,5.0,Clause 5.5; valuation 1450.00; source item master / requester estimate
+PR-26-00555,1,ITM-1042,REQ-00132,PO-00077,PO,EMERGENCY_PO,S026,1159.02,419888.0,,5.0,Clause 5.3; valuation 1199.68; source preferred supplier history / contract
+PR-26-00556,1,ITM-1004,REQ-00066,PO-00038,PO,EMERGENCY_PO,S003,23773.75,380380.0,,5.0,Clause 5.3; valuation 23773.75; source preferred supplier history / contract
+PR-26-00557,1,ITM-1043,REQ-00007,PO-00002,PO,EMERGENCY_PO,S026,175.9,344764.0,,5.0,Clause 5.3; valuation 175.90; source preferred supplier history / contract
+PR-26-00558,1,ITM-1031,REQ-00014,PO-00007,PO,EMERGENCY_PO,S019,252.57,161992.8,,5.0,Clause 5.3; valuation 224.99; source preferred supplier history / contract
+PR-26-00559,1,ITM-1051,REQ-00035,PO-00020,PO,EMERGENCY_PO,S029,8.76,279882.0,,5.0,Clause 5.3; valuation 8.76; source preferred supplier history / contract
+PR-26-00560,1,ITM-1033,REQ-00010,PO-00003,PO,EMERGENCY_PO,S020,65837.89,131675.78,,5.0,Clause 5.3; valuation 65837.89; source preferred supplier history / contract
+PR-26-00561,1,ITM-1027,REQ-00128,PO-00074,PO,SPOT_PO,S015,269.44,10374.0,,5.0,Clause 5.4; valuation 259.35; source preferred supplier history / contract
+PR-26-00562,1,ITM-1050,REQ-00036,PO-00021,PO,SPOT_PO,S029,130.83,84207.5,,5.0,Clause 5.4; valuation 129.55; source preferred supplier history / contract
+PR-26-00563,1,ITM-1012,REQ-00029,PO-00016,PO,SPOT_PO,S006,0.77,104935.6,,5.0,Clause 5.4; valuation 0.77; source preferred supplier history / contract
+PR-26-00564,1,ITM-1038,REQ-00104,PO-00061,PO,SPOT_PO,S024,166.41,69892.2,,5.0,Clause 5.4; valuation 166.41; source preferred supplier history / contract
+PR-26-00565,1,ITM-1058,REQ-00084,PO-00049,PO,SPOT_PO,S036,257.79,157251.9,,5.0,Clause 5.4; valuation 257.79; source preferred supplier history / contract
+PR-26-00566,1,ITM-1045,REQ-00065,,SOURCING_REQUEST,RFQ,,,236725.92,S028;S027;S026,5.0,Clause 5.5; valuation 1272.72; source 7300301
+PR-26-00567,1,ITM-1059,REQ-00059,PO-00035,PO,SPOT_PO,S035,2999.66,41995.24,,5.0,Clause 5.4; valuation 2999.66; source preferred supplier history / contract
+PR-26-00568,1,ITM-1026,REQ-00135,PO-00079,PO,SPOT_PO,S014,106.38,168080.4,,5.0,Clause 5.4; valuation 106.38; source preferred supplier history / contract
+PR-26-00569,1,ITM-1034,REQ-00037,PO-00022,PO,SPOT_PO,S020,40929.88,165662.4,,5.0,Clause 5.4; valuation 41415.60; source preferred supplier history / contract
+PR-26-00570,1,ITM-1017,REQ-00041,PO-00025,PO,SPOT_PO,S012,1614.13,91701.72,,5.0,Clause 5.4; valuation 1479.06; source preferred supplier history / contract
+PR-26-00571,1,ITM-1018,REQ-00088,PO-00052,PO,SPOT_PO,S009,1186.78,119864.78,,5.0,Clause 5.4; valuation 1186.78; source preferred supplier history / contract
+PR-26-00572,1,ITM-1030,REQ-00113,PO-00067,PO,SPOT_PO,S017,1149.88,14948.44,,5.0,Clause 5.4; valuation 1149.88; source preferred supplier history / contract
+PR-26-00573,1,ITM-1029,REQ-00054,,SOURCING_REQUEST,RFQ,,,222591.6,S020;S017;S019,5.0,Clause 5.5; valuation 1589.94; source 7300179
+PR-26-00574,1,ITM-1054,REQ-00043,PO-00027,PO,SPOT_PO,S032,191.61,53650.8,,5.0,Clause 5.4; valuation 191.61; source preferred supplier history / contract
+PR-26-00575,1,ITM-1035,REQ-00148,PO-00087,PO,SPOT_PO,S023,391.82,94036.8,,5.0,Clause 5.4; valuation 391.82; source preferred supplier history / contract
+PR-26-00576,1,ITM-1020,REQ-00129,PO-00075,PO,SPOT_PO,S009,210.17,31869.0,,5.0,Clause 5.4; valuation 212.46; source preferred supplier history / contract
+PR-26-00577,1,ITM-1005,REQ-00045,PO-00028,PO,SPOT_PO,S003,74.34,75826.8,,5.0,Clause 5.4; valuation 74.34; source preferred supplier history / contract
+PR-26-00578,1,ITM-1044,REQ-00053,PO-00031,PO,SPOT_PO,S027,21.59,50220.3,,5.0,Clause 5.4; valuation 21.19; source preferred supplier history / contract
+PR-26-00579,1,ITM-1008,REQ-00048,PO-00030,PO,SPOT_PO,S001,86.04,133362.0,,5.0,Clause 5.4; valuation 86.04; source preferred supplier history / contract
+PR-26-00580,1,ITM-1028,REQ-00031,,SOURCING_REQUEST,RFQ,,,448628.4,S019;S020;S017,5.0,Clause 5.5; valuation 2039.22; source 7300167
+PR-26-00581,1,ITM-1040,REQ-00124,PO-00072,PO,SPOT_PO,S023,19152.28,19152.28,,5.0,Clause 5.4; valuation 19152.28; source preferred supplier history / contract
+PR-26-00582,1,ITM-1033,REQ-00139,PO-00082,PO,SPOT_PO,S020,65837.89,65837.89,,5.0,Clause 5.4; valuation 65837.89; source preferred supplier history / contract
+PR-26-00583,1,ITM-1054,REQ-00143,PO-00080,PO,SPOT_PO,S032,191.61,153288.0,,5.0,Clause 5.4; valuation 191.61; source preferred supplier history / contract
+PR-26-00584,1,ITM-1045,REQ-00065,,SOURCING_REQUEST,RFQ,,,236725.92,S028;S027;S026,5.0,Clause 5.5; valuation 1272.72; source 7300301
+PR-26-00585,1,ITM-1050,REQ-00050,PO-00026,PO,SPOT_PO,S029,130.83,168415.0,,5.0,Clause 5.4; valuation 129.55; source preferred supplier history / contract
+PR-26-00586,1,ITM-1020,REQ-00129,PO-00075,PO,SPOT_PO,S009,210.17,31869.0,,5.0,Clause 5.4; valuation 212.46; source preferred supplier history / contract
+PR-26-00587,1,ITM-1038,REQ-00030,PO-00017,PO,SPOT_PO,S024,166.41,14976.9,,5.0,Clause 5.4; valuation 166.41; source preferred supplier history / contract
+PR-26-00588,1,ITM-1058,REQ-00017,PO-00009,PO,SPOT_PO,S036,257.79,107756.22,,5.0,Clause 5.4; valuation 257.79; source preferred supplier history / contract
+PR-26-00589,1,ITM-1066,REQ-00005,,SOURCING_REQUEST,RFQ,,,807749.16,S043;S044;S042,5.0,Clause 5.5; valuation 67312.43; source 7300445
+PR-26-00590,1,ITM-1068,REQ-00136,,SOURCING_REQUEST,RFQ,,,415042.59,S043;S044;S042,5.0,Clause 5.5; valuation 18045.33; source 7300457
+PR-26-00591,1,ITM-1044,REQ-00100,,SOURCING_REQUEST,RFQ,,,556237.5,S027;S028;S026,5.0,Clause 5.5; valuation 21.19; source 7300299
+PR-26-00592,1,ITM-1031,REQ-00027,,SOURCING_REQUEST,RFQ,,,206990.8,S019;S017;S018,5.0,Clause 5.5; valuation 224.99; source 7300193
+PR-26-00593,1,ITM-1028,REQ-00025,,SOURCING_REQUEST,RFQ,,,795295.8,S019;S020;S017,5.0,Clause 5.5; valuation 2039.22; source 7300167
+PR-26-00594,1,ITM-1034,REQ-00061,,SOURCING_REQUEST,RFQ,,,496987.2,S020;S019;S017,5.0,Clause 5.5; valuation 41415.60; source 7300220
+PR-26-00595,1,ITM-1061,REQ-00080,PO-00045,PO,CONTRACT_PO,S038,178463.6,535390.8,,5.0,Clause 5.2; valuation 178463.60; source RC-2026-012
+PR-26-00596,1,ITM-1029,REQ-00101,,SOURCING_REQUEST,RFQ,,,476982.0,S020;S017;S019,5.0,Clause 5.5; valuation 1589.94; source 7300179
+PR-26-00597,1,ITM-1030,REQ-00094,,SOURCING_REQUEST,RFQ,,,218477.2,S017;S019;S018,5.0,Clause 5.5; valuation 1149.88; source 7300191
+PR-26-00598,1,ITM-1043,REQ-00049,,SOURCING_REQUEST,RFQ,,,580470.0,S026;S027;S028,5.0,Clause 5.5; valuation 175.90; source 7300296
+PR-26-00599,1,ITM-1004,REQ-00152,,SOURCING_REQUEST,RFP,,,1664162.5,S003;S002;S001;S005,5.0,Clause 5.6; valuation 23773.75; source 7300031
+PR-26-00600,1,ITM-1040,REQ-00147,,SOURCING_REQUEST,RFP,,,2451491.84,S023;S024;S022;S021,5.0,Clause 5.6; valuation 19152.28; source 7300270
+PR-26-00601,1,ITM-1059,REQ-00070,,SOURCING_REQUEST,RFP,,,2321736.84,S035;S036;S037,5.0,Clause 5.6; valuation 2999.66; source 7300387
+PR-26-00602,1,ITM-1035,REQ-00108,,SOURCING_REQUEST,RFP,,,1430143.0,S023;S024;S022;S021,5.0,Clause 5.6; valuation 391.82; source 7300225
+PR-26-00603,1,ITM-1042,REQ-00086,PO-00051,PO,SPOT_PO,S026,1159.02,179952.0,,5.0,Clause 5.4; valuation 1199.68; source preferred supplier history / contract
+PR-26-00604,1,ITM-1042,REQ-00095,PO-00058,PO,SPOT_PO,S026,1159.02,179952.0,,5.0,Clause 5.4; valuation 1199.68; source preferred supplier history / contract
+PR-26-00605,1,ITM-1045,REQ-00090,PO-00054,PO,SPOT_PO,S028,1272.72,131090.16,,5.0,Clause 5.4; valuation 1272.72; source preferred supplier history / contract
+PR-26-00606,1,ITM-1044,REQ-00096,PO-00053,PO,SPOT_PO,S027,21.59,148965.7,,5.0,Clause 5.4; valuation 21.19; source preferred supplier history / contract
+PR-26-00607,1,ITM-1043,REQ-00127,PO-00073,PO,SPOT_PO,S026,175.9,193490.0,,5.0,Clause 5.4; valuation 175.90; source preferred supplier history / contract
+PR-26-00608,1,ITM-1045,REQ-00141,PO-00084,PO,SPOT_PO,S028,1272.72,123453.84,,5.0,Clause 5.4; valuation 1272.72; source preferred supplier history / contract
+PR-26-00609,1,ITM-1043,REQ-00049,,SOURCING_REQUEST,RFQ,,,580470.0,S026;S027;S028,5.0,Clause 5.5; valuation 175.90; source 7300296
+PR-26-00610,1,ITM-1044,REQ-00089,PO-00053,PO,SPOT_PO,S027,21.59,151508.5,,5.0,Clause 5.4; valuation 21.19; source preferred supplier history / contract
+PR-26-00611,1,ITM-1029,REQ-00133,PO-00078,PO,SPOT_PO,S020,1589.94,127195.2,,5.0,Clause 5.4; valuation 1589.94; source preferred supplier history / contract
+PR-26-00612,1,ITM-1031,REQ-00103,PO-00060,PO,SPOT_PO,S019,252.57,98995.6,,5.0,Clause 5.4; valuation 224.99; source preferred supplier history / contract
+PR-26-00613,1,ITM-1030,REQ-00097,PO-00059,PO,SPOT_PO,S017,1149.88,80491.6,,5.0,Clause 5.4; valuation 1149.88; source preferred supplier history / contract
+PR-26-00614,1,ITM-1033,REQ-00123,PO-00071,PO,SPOT_PO,S020,65837.89,131675.78,,5.0,Clause 5.4; valuation 65837.89; source preferred supplier history / contract
+PR-26-00615,1,ITM-1034,REQ-00076,PO-00043,PO,SPOT_PO,S020,40929.88,82831.2,,5.0,Clause 5.4; valuation 41415.60; source preferred supplier history / contract
+PR-26-00616,1,ITM-1028,REQ-00079,PO-00041,PO,SPOT_PO,S019,2039.22,163137.6,,5.0,Clause 5.4; valuation 2039.22; source preferred supplier history / contract
+PR-26-00617,1,ITM-1029,REQ-00145,PO-00086,PO,SPOT_PO,S020,1589.94,158994.0,,5.0,Clause 5.4; valuation 1589.94; source preferred supplier history / contract
+PR-26-00618,1,ITM-1031,REQ-00073,PO-00041,PO,SPOT_PO,S019,252.57,76496.6,,5.0,Clause 5.4; valuation 224.99; source preferred supplier history / contract
+PR-26-00619,1,ITM-1030,REQ-00001,,SOURCING_REQUEST,RFQ,,,206978.4,S017;S019;S018,5.0,Clause 5.5; valuation 1149.88; source 7300191
+PR-26-00620,1,ITM-1028,REQ-00031,,SOURCING_REQUEST,RFQ,,,448628.4,S019;S020;S017,5.0,Clause 5.5; valuation 2039.22; source 7300167
+PR-26-00621,1,ITM-1017,REQ-00125,,SOURCING_REQUEST,RFQ,,,965826.18,S012;S009;S010,5.0,Clause 5.5; valuation 1479.06; source 7300091
+PR-26-00622,1,ITM-1018,REQ-00120,,SOURCING_REQUEST,RFQ,,,804636.84,S009;S012;S010,5.0,Clause 5.5; valuation 1186.78; source 7300100
+PR-26-00623,1,ITM-1008,REQ-00130,,SOURCING_REQUEST,RFQ,,,896536.8,S001;S005;S002,5.0,Clause 5.5; valuation 86.04; source 7300044
+PR-26-00624,1,ITM-1026,REQ-00087,,SOURCING_REQUEST,RFP,,,1063800.0,S014;S013;S015;S016,5.0,Clause 5.6; valuation 106.38; source 7300155
+PR-26-00625,1,ITM-1051,REQ-00134,,SOURCING_REQUEST,RFQ,,,819673.2,S029;S030,5.0,Clause 5.5; valuation 8.76; source 7300340
+PR-26-00626,1,ITM-1012,REQ-00111,PO-00066,PO,SPOT_PO,S006,0.77,133387.1,,5.0,Clause 5.4; valuation 0.77; source preferred supplier history / contract
+PR-26-00627,1,ITM-1012,REQ-00111,PO-00066,PO,SPOT_PO,S006,0.77,133387.1,,5.0,Clause 5.4; valuation 0.77; source preferred supplier history / contract
+PR-26-00628,1,ITM-1012,REQ-00111,PO-00066,PO,SPOT_PO,S006,0.77,133387.1,,5.0,Clause 5.4; valuation 0.77; source preferred supplier history / contract
+PR-26-00629,1,ITM-1005,REQ-00107,PO-00064,PO,SPOT_PO,S003,74.34,150910.2,,5.0,Clause 5.4; valuation 74.34; source preferred supplier history / contract
+PR-26-00630,1,ITM-1005,REQ-00107,PO-00064,PO,SPOT_PO,S003,74.34,150910.2,,5.0,Clause 5.4; valuation 74.34; source preferred supplier history / contract
+PR-26-00631,1,ITM-1005,REQ-00107,PO-00064,PO,SPOT_PO,S003,74.34,150910.2,,5.0,Clause 5.4; valuation 74.34; source preferred supplier history / contract
+PR-26-00632,1,ITM-1027,REQ-00026,PO-00015,PO,SPOT_PO,S015,269.44,145236.0,,5.0,Clause 5.4; valuation 259.35; source preferred supplier history / contract
+PR-26-00633,1,ITM-1027,REQ-00026,PO-00015,PO,SPOT_PO,S015,269.44,145236.0,,5.0,Clause 5.4; valuation 259.35; source preferred supplier history / contract
+PR-26-00634,1,ITM-1027,REQ-00026,PO-00015,PO,SPOT_PO,S015,269.44,145236.0,,5.0,Clause 5.4; valuation 259.35; source preferred supplier history / contract
+PR-26-00635,1,ITM-1018,REQ-00081,PO-00046,PO,SPOT_PO,S009,1186.78,157841.74,,5.0,Clause 5.4; valuation 1186.78; source preferred supplier history / contract
+PR-26-00636,1,ITM-1018,REQ-00081,PO-00046,PO,SPOT_PO,S009,1186.78,157841.74,,5.0,Clause 5.4; valuation 1186.78; source preferred supplier history / contract
+PR-26-00637,1,ITM-1018,REQ-00081,PO-00046,PO,SPOT_PO,S009,1186.78,157841.74,,5.0,Clause 5.4; valuation 1186.78; source preferred supplier history / contract
+PR-26-00638,1,ITM-1051,REQ-00035,PO-00020,PO,EMERGENCY_PO,S029,8.76,279882.0,,5.0,Clause 5.3; valuation 8.76; source preferred supplier history / contract
+PR-26-00639,1,ITM-1051,REQ-00035,PO-00020,PO,EMERGENCY_PO,S029,8.76,279882.0,,5.0,Clause 5.3; valuation 8.76; source preferred supplier history / contract
+PR-26-00640,1,ITM-1051,REQ-00035,PO-00020,PO,EMERGENCY_PO,S029,8.76,279882.0,,5.0,Clause 5.3; valuation 8.76; source preferred supplier history / contract
+PR-26-00641,1,ITM-1008,REQ-00093,PO-00057,PO,SPOT_PO,S001,86.04,171219.6,,5.0,Clause 5.4; valuation 86.04; source preferred supplier history / contract
+PR-26-00642,1,ITM-1008,REQ-00093,PO-00057,PO,SPOT_PO,S001,86.04,171219.6,,5.0,Clause 5.4; valuation 86.04; source preferred supplier history / contract
+PR-26-00643,1,ITM-1008,REQ-00093,PO-00057,PO,SPOT_PO,S001,86.04,171219.6,,5.0,Clause 5.4; valuation 86.04; source preferred supplier history / contract
+PR-26-00644,1,ITM-1008,REQ-00093,PO-00057,PO,SPOT_PO,S001,86.04,171219.6,,5.0,Clause 5.4; valuation 86.04; source preferred supplier history / contract
+PR-26-00645,1,ITM-1059,REQ-00070,,SOURCING_REQUEST,RFP,,,2321736.84,S035;S036;S037,5.0,Clause 5.6; valuation 2999.66; source 7300387
+PR-26-00646,1,ITM-1059,REQ-00077,PO-00044,PO,SPOT_PO,S035,2999.66,11998.64,,5.0,Clause 5.4; valuation 2999.66; source preferred supplier history / contract
+PR-26-00647,1,ITM-1059,REQ-00085,PO-00050,PO,SPOT_PO,S035,2999.66,14998.3,,5.0,Clause 5.4; valuation 2999.66; source preferred supplier history / contract
+PR-26-00648,1,ITM-1050,REQ-00023,PO-00013,PO,SPOT_PO,S029,130.83,18137.0,,5.0,Clause 5.4; valuation 129.55; source preferred supplier history / contract
+PR-26-00649,1,ITM-1050,REQ-00032,PO-00018,PO,SPOT_PO,S029,130.83,15546.0,,5.0,Clause 5.4; valuation 129.55; source preferred supplier history / contract
+PR-26-00650,1,ITM-1050,REQ-00042,PO-00026,PO,SPOT_PO,S029,130.83,10364.0,,5.0,Clause 5.4; valuation 129.55; source preferred supplier history / contract
+PR-26-00651,1,ITM-1004,REQ-00062,PO-00036,PO,SPOT_PO,S003,23773.75,23773.75,,5.0,Clause 5.4; valuation 23773.75; source preferred supplier history / contract
+PR-26-00652,1,ITM-1004,REQ-00066,PO-00038,PO,EMERGENCY_PO,S003,23773.75,380380.0,,5.0,Clause 5.3; valuation 23773.75; source preferred supplier history / contract
+PR-26-00653,1,ITM-1004,REQ-00075,PO-00042,PO,SPOT_PO,S003,23773.75,23773.75,,5.0,Clause 5.4; valuation 23773.75; source preferred supplier history / contract
+PR-26-00654,1,ITM-1046,REQ-00092,PO-00056,PO,CONTRACT_PO,S029,1091.63,251074.9,,5.0,Clause 5.2; valuation 1091.63; source RC-2026-007
+PR-26-00655,1,ITM-1047,REQ-00099,PO-00056,PO,CONTRACT_PO,S029,26.09,300035.0,,5.0,Clause 5.2; valuation 26.09; source RC-2026-007
+PR-26-00656,1,NEW,REQ-00102,,SOURCING_REQUEST,NEW_ITEM_SOURCING,,,0.0,,5.0,Clause 1.2; valuation 0.00; source item master / requester estimate
+PR-26-00657,1,ITM-1049,REQ-00110,PO-00065,PO,CONTRACT_PO,S029,191.31,17217.9,,5.0,Clause 5.2; valuation 191.31; source RC-2026-007
+PR-26-00658,1,ITM-1009,REQ-00003,PO-00001,PO,CONTRACT_PO,S007,7.06,173958.4,,5.0,Clause 5.2; valuation 7.06; source RC-2026-013
+PR-26-00659,1,ITM-1010,REQ-00004,PO-00001,PO,CONTRACT_PO,S007,1.81,276911.9,,5.0,Clause 5.2; valuation 1.81; source RC-2026-013
+PR-26-00660,1,ITM-1011,REQ-00008,PO-00001,PO,CONTRACT_PO,S007,5.75,32832.5,,5.0,Clause 5.2; valuation 5.75; source RC-2026-013
+PR-26-00661,1,ITM-1013,REQ-00011,PO-00004,PO,CONTRACT_PO,S007,36.18,35818.2,,5.0,Clause 5.2; valuation 36.18; source RC-2026-013
+PR-26-00662,1,ITM-1060,REQ-00144,,SOURCING_REQUEST,RFQ,,,174000.0,S036;S035;S037,5.0,Clause 5.5; valuation 1450.00; source item master / requester estimate
+PR-26-00662,2,ITM-1065,REQ-00153,PO-00088,PO,SPOT_PO,S042,10139.65,91256.85,,5.0,Clause 5.4; valuation 10139.65; source preferred supplier history / contract
+PR-26-00662,3,ITM-1062,REQ-00154,,SOURCING_REQUEST,RFQ,,,241186.93,S040;S039;S041,5.0,Clause 5.5; valuation 241186.93; source 7300418
+PR-26-00663,1,ITM-1073,REQ-00067,,SOURCING_REQUEST,CAPEX_SOURCING,,,1150000.0,S045;S047;S020;S048;S046,5.0,Clause 5.1; valuation 1150000.00; source item master / requester estimate
+PR-26-00663,2,ITM-1067,REQ-00068,,SOURCING_REQUEST,RFQ,,,203029.0,S044;S043;S042,5.0,Clause 5.5; valuation 3500.50; source 7300449
+PR-26-00663,3,ITM-1063,REQ-00069,PO-00039,PO,SPOT_PO,S039,19522.84,67151.72,,5.0,Clause 5.4; valuation 16787.93; source preferred supplier history / contract
+PR-26-00664,1,ITM-1071,REQ-00033,,SOURCING_REQUEST,CAPEX_SOURCING,,,4527528.06,S045;S047;S020;S048;S046,5.0,Clause 5.1; valuation 1509176.02; source 7300466
+PR-26-00664,2,ITM-1070,REQ-00078,,SOURCING_REQUEST,CAPEX_SOURCING,,,744137.67,S020;S047;S048;S045;S046,5.0,Clause 5.1; valuation 744137.67; source 7300465
+PR-26-00665,1,ITM-1064,REQ-00149,,SOURCING_REQUEST,RFQ,,,342679.06,S039;S038;S041,5.0,Clause 5.5; valuation 342679.06; source 7300438
+PR-26-00665,2,ITM-1055,REQ-00150,,SOURCING_REQUEST,RFQ,,,218500.0,S033;S032,5.0,Clause 5.5; valuation 230.00; source item master / requester estimate
+PR-26-00665,3,ITM-1069,REQ-00151,,SOURCING_REQUEST,CAPEX_SOURCING,,,4561600.84,S045;S047;S020;S048;S046,5.0,Clause 5.1; valuation 4561600.84; source 7300464
+PR-26-00666,1,ITM-1032,REQ-00115,,SOURCING_REQUEST,RFQ,,,258500.0,S019;S020;S017,5.0,Clause 5.5; valuation 2350.00; source item master / requester estimate
+PR-26-00666,2,ITM-1025,REQ-00116,,SOURCING_REQUEST,RFQ,,,171600.0,S014;S013;S015,5.0,Clause 5.5; valuation 780.00; source item master / requester estimate
+PR-26-00666,3,ITM-1072,REQ-00117,,SOURCING_REQUEST,CAPEX_SOURCING,,,2738200.86,S045;S047;S020;S048;S046,5.0,Clause 5.1; valuation 2738200.86; source 7300467
+PR-26-00666,4,ITM-1011,REQ-00118,PO-00066,PO,SPOT_PO,S006,6.64,189060.0,,5.0,Clause 5.4; valuation 5.75; source preferred supplier history / contract
+PR-26-00667,1,ITM-1066,REQ-00005,,SOURCING_REQUEST,RFQ,,,807749.16,S043;S044;S042,5.0,Clause 5.5; valuation 67312.43; source 7300445
+PR-26-00667,2,ITM-1001,REQ-00018,PO-00008,PO,CONTRACT_PO,S001,6340.39,253615.6,,5.0,Clause 5.2; valuation 6340.39; source RC-2025-011
+PR-26-00667,3,ITM-1002,REQ-00019,PO-00008,PO,CONTRACT_PO,S001,9168.71,174205.49,,5.0,Clause 5.2; valuation 9168.71; source RC-2025-011
+PR-26-00667,4,ITM-1065,REQ-00020,PO-00010,PO,SPOT_PO,S042,10139.65,182513.7,,5.0,Clause 5.4; valuation 10139.65; source preferred supplier history / contract
+PR-26-00668,1,NEW,REQ-00052,,SOURCING_REQUEST,NEW_ITEM_SOURCING,,,149600.0,,5.0,Clause 1.2; valuation 37400.00; source item master / requester estimate
+PR-26-00669,1,NEW,REQ-00071,,SOURCING_REQUEST,NEW_ITEM_SOURCING,,,145400.0,,5.0,Clause 1.2; valuation 72700.00; source item master / requester estimate
+PR-26-00670,1,NEW,REQ-00060,,SOURCING_REQUEST,NEW_ITEM_SOURCING,,,37000.0,,5.0,Clause 1.2; valuation 37000.00; source item master / requester estimate
+PR-26-00671,1,ITM-1042,REQ-00057,PO-00034,PO,SPOT_PO,S026,1159.02,143961.6,,5.0,Clause 5.4; valuation 1199.68; source preferred supplier history / contract
+PR-26-00672,1,ITM-1042,REQ-00057,PO-00034,PO,SPOT_PO,S026,1159.02,143961.6,,5.0,Clause 5.4; valuation 1199.68; source preferred supplier history / contract
+PR-26-00673,1,ITM-1042,REQ-00057,PO-00034,PO,SPOT_PO,S026,1159.02,143961.6,,5.0,Clause 5.4; valuation 1199.68; source preferred supplier history / contract
+PR-26-00674,1,ITM-1034,REQ-00038,,NOT_PROCESSED,NOT_PROCESSED,,,0.0,,5.0,Clause Missing required fields or invalid quantity; valuation 41415.60; source 7300220
+PR-26-00675,1,ITM-1034,REQ-00022,PO-00012,PO,SPOT_PO,S020,40929.88,41415.6,,5.0,Clause 5.4; valuation 41415.60; source preferred supplier history / contract
+PR-26-00676,1,ITM-1029,REQ-00054,,SOURCING_REQUEST,RFQ,,,222591.6,S020;S017;S019,5.0,Clause 5.5; valuation 1589.94; source 7300179
+PR-26-00677,1,ITM-1029,REQ-00054,,SOURCING_REQUEST,RFQ,,,222591.6,S020;S017;S019,5.0,Clause 5.5; valuation 1589.94; source 7300179
